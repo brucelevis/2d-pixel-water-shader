@@ -1,0 +1,12 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.7",
+  "Category": "2D",
+  "Description": "UE 5.7 migration workspace for the 2D pixel water shader.",
+  "Modules": [],
+  "Plugins": [
+    { "Name": "Paper2D", "Enabled": true },
+    { "Name": "PythonScriptPlugin", "Enabled": true },
+    { "Name": "EditorScriptingUtilities", "Enabled": true }
+  ]
+}
